@@ -1,0 +1,7 @@
+com.renesas.cdt.managedbuild.renesas.ccrx.common.option.checkRtos=unusedRtos
+com.renesas.cdt.managedbuild.renesas.ccrx.rtosConfig.option.cfgFilePath=../generate/${ArtifactName}.cfg
+com.renesas.cdt.managedbuild.renesas.ccrx.rtosConfig.option.output=${workspace_loc\:/${ProjName}}\\cfg_output
+com.renesas.cdt.managedbuild.renesas.ccrx.rtosConfig.option.rtosId=com.renesas.smc.rtos.e2studio.pgRtos
+com.renesas.cdt.managedbuild.renesas.ccrx.rtosConfig.option.rtosName=FreeRTOS (kernel only)
+com.renesas.cdt.managedbuild.renesas.ccrx.rtosConfig.option.rtosVersion=FreeRTOS_RX_v10.0.04
+eclipse.preferences.version=1
